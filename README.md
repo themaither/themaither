@@ -1,4 +1,4 @@
-## Hi there 👋
+## Just another C++ hacker,
 
 <!--
 **themaither/themaither** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
